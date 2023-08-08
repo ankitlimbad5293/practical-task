@@ -1,0 +1,17 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "isolatedModules": false,
+    "allowSyntheticDefaultImports": true,
+    // Path alias config
+    "paths": {
+      "#/screens/*": ["./src/screens/*"],
+      "#/helpers/*": ["./src/common/helpers/*"],
+      "#/styles/*": ["./src/common/styles/*"],
+      "#/utils/*": ["./src/utils/*"],
+      "#/reduxStore/*": ["./src/reduxStore/*"],
+      "#/*": ["./src/*"]
+    }
+  }
+}
