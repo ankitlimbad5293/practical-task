@@ -70,7 +70,6 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
-/ios/
 /vendor/
 
 # Coverage directory used by tools like istanbul
@@ -80,7 +79,3 @@ coverage
 # Expo
 .expo/
 web-build/
-
-.env
-.env-dev
-.env-prod

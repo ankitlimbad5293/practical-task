@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/common/assets/fonts/files/Inter-Black.ttf",
+      "sha1": "da620af2628a4e63c09cd01b23dca941673c177e"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-Bold.ttf",
+      "sha1": "18e02ec04ccc8f7f6d5b011b922145f4b99948ac"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-ExtraBold.ttf",
+      "sha1": "75532599a78e5c6496bbde95b37e4973c806958a"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-ExtraLight.ttf",
+      "sha1": "d05ccad7e32000adcc91b250ea7ebe882981538f"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-Light.ttf",
+      "sha1": "34f7da3e26a7a671667081adcf55bd0ffc31128c"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-Medium.ttf",
+      "sha1": "79c2893feae2c04876d84cf4eb808b6de1a1e350"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-Regular.ttf",
+      "sha1": "ab5ba542cdc7064bd3d28055102faed8d0a02704"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-SemiBold.ttf",
+      "sha1": "cc8d13051815374440ba7d29ae511735d381f7b4"
+    },
+    {
+      "path": "src/common/assets/fonts/files/Inter-Thin.ttf",
+      "sha1": "c5f2da3790e011127ca47ce2b25c9ab8e36c7204"
+    }
+  ]
+}
